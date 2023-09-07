@@ -1,0 +1,35 @@
+.logo{
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 90%;
+    margin:0 auto;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    width: 95%;
+    padding-left: 54px;
+  }
+  td:first-child {
+    background-color: #7EE5DA;
+    width: 37%;
+    text-align: center;
+  }
+  td:nth-child(2) {
+    background-color: #70CCC2;
+    text-align: center;
+  }
+  td:last-child {
+    background-color: #62B3AA;
+    width: 37%;
+    text-align: center;
+  }
